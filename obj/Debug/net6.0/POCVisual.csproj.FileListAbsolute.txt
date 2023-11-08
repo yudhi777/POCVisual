@@ -1,0 +1,14 @@
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\bin\Debug\net6.0\POCVisual.exe
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\bin\Debug\net6.0\POCVisual.deps.json
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\bin\Debug\net6.0\POCVisual.runtimeconfig.json
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\bin\Debug\net6.0\POCVisual.dll
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\bin\Debug\net6.0\POCVisual.pdb
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.AssemblyInfoInputs.cache
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.AssemblyInfo.cs
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.csproj.CoreCompileInputs.cache
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.dll
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\refint\POCVisual.dll
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.pdb
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\POCVisual.genruntimeconfig.cache
+C:\DATA\30_PENTEST\POC_Sinarmas_2023\POCVisual\obj\Debug\net6.0\ref\POCVisual.dll
